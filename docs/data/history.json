@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T22:11:01Z",
+  "generated_at": "2026-04-16T22:16:00Z",
   "window_hours": 168,
   "buckets": [
     {
@@ -382,10 +382,10 @@
     },
     {
       "hour": "2026-04-16T22:00:00Z",
-      "checks": 3,
+      "checks": 4,
       "successes": 0,
       "last_http_status": 500,
-      "avg_latency_ms": 1010.68,
+      "avg_latency_ms": 1058.27,
       "last_error_message": "Panic detected, error: runtime error: invalid memory address or nil pointer dereference. Please submit a issue here: https://github.com/Calcium-Ion/new-api",
       "status": "major_outage"
     }
