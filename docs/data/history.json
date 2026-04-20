@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T05:25:39Z",
+  "generated_at": "2026-04-20T05:30:40Z",
   "window_hours": 168,
   "buckets": [
     {
@@ -1075,11 +1075,11 @@
     },
     {
       "hour": "2026-04-20T05:00:00Z",
-      "checks": 6,
+      "checks": 7,
       "successes": 0,
       "last_http_status": 403,
-      "avg_latency_ms": 1111.93,
-      "last_error_message": "用户已被封禁 (request id: 202604201325407564150472Vab9elK)",
+      "avg_latency_ms": 1128.77,
+      "last_error_message": "用户已被封禁 (request id: 20260420133041649627937b4YXvacI)",
       "status": "major_outage"
     }
   ]
