@@ -4,9 +4,9 @@
   "http_status": 403,
   "token_ok": false,
   "last_token": "",
-  "latency_ms": 1049.22,
-  "checked_at": "2026-04-20T03:35:39Z",
-  "error_message": "用户已被封禁 (request id: 202604201135406921549917uT2DTfl)",
+  "latency_ms": 1219.55,
+  "checked_at": "2026-04-20T03:40:50Z",
+  "error_message": "用户已被封禁 (request id: 20260420114051580988462ocRi08tF)",
   "raw_error_type": "new_api_error",
   "target_model": "claude-opus-4-7[1m]"
 }
